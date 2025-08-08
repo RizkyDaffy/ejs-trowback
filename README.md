@@ -21,14 +21,6 @@ Hanya waktu yang bisa membukanya.
 
 ---
 
-## 🚀 Demo
-
-![Preview](https://i.imgur.com/6kL8hJf.gif)
-
-> Saat tanggal sistem benar maka web akan terbuka kembali.
-
----
-
 ## 🔐 How It Works
 
 Website ini menggunakan **JavaScript di sisi klien** untuk memeriksa apakah tanggal lokal perangkat pengguna cocok dengan tanggal target:
